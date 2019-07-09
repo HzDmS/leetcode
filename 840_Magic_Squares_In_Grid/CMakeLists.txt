@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.14.5)
+project(840_Magic_Squares_In_Grid)
+set(CMAKE_CXX_STANDARD 11)
+set(SOURCE main.cpp)
+add_executable(840_Magic_Squares_In_Grid ${SOURCE})
