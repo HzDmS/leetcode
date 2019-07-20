@@ -1,0 +1,3 @@
+/Users/hezhe/Code/cpp/leetcode/840_Magic_Squares_In_Grid/build/CMakeFiles/rebuild_cache.dir
+/Users/hezhe/Code/cpp/leetcode/840_Magic_Squares_In_Grid/build/CMakeFiles/edit_cache.dir
+/Users/hezhe/Code/cpp/leetcode/840_Magic_Squares_In_Grid/build/CMakeFiles/840_Magic_Squares_In_Grid.dir
