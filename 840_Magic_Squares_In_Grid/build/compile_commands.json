@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/hezhe/Code/cpp/leetcode/840_Magic_Squares_In_Grid/build",
-  "command": "/usr/bin/clang++    -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=gnu++11 -o CMakeFiles/840_Magic_Squares_In_Grid.dir/main.cpp.o -c /Users/hezhe/Code/cpp/leetcode/840_Magic_Squares_In_Grid/main.cpp",
-  "file": "/Users/hezhe/Code/cpp/leetcode/840_Magic_Squares_In_Grid/main.cpp"
-}
-]

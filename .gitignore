@@ -2,4 +2,5 @@
 *.dSYM
 *.out
 */.vscode/
+*/build/
 run
