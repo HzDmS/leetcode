@@ -34,14 +34,3 @@ class Solution(object):
 
         return length
 
-
-if __name__ == "__main__":
-
-    input_map = [['O', 'O', 'O', 'O'],
-                 ['D', 'O', 'D', 'O'],
-                 ['O', 'O', 'O', 'O'],
-                 ['X', 'D', 'D', 'O']]
-
-    s = Solution()
-    print(s.findShortestPath(input_map))
-
