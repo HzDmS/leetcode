@@ -3,4 +3,5 @@
 *.out
 */.vscode/
 */build/
+.vscode/
 run
