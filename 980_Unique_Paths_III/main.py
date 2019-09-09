@@ -29,4 +29,3 @@ class Solution:
                     return tmp
 
         return dfs(start[0], start[1], 0)
-
